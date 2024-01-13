@@ -1,0 +1,178 @@
+{
+  "main": {
+    "id": "ff8ad2d1faba4589",
+    "type": "split",
+    "children": [
+      {
+        "id": "859fd860b75aa447",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7d34d4a783ad5727",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Programação Orientada a Objetos/Linguagens/Rust.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "5229b609047a87a4",
+    "type": "split",
+    "children": [
+      {
+        "id": "74315af5730e4959",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c09d784cd8331677",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "2521db3fa12ed5a8",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "72bedef44c4cad3a",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "ca64d140fd95cecc",
+    "type": "split",
+    "children": [
+      {
+        "id": "6860ae5aaccc243a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "86eb75d7aa385f24",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Programação Orientada a Objetos/Linguagens/Rust.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "b015a362d7ef87a8",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Programação Orientada a Objetos/Linguagens/Rust.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "5d5b42a5fdcd6223",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "26bb8322ff7a77da",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Programação Orientada a Objetos/Linguagens/Rust.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir a troca rápida": false,
+      "graph:Abrir visualização em gráfico": false,
+      "canvas:Criar novo canvas": false,
+      "daily-notes:Abrir a nota de hoje": false,
+      "templates:Inserir modelo": false,
+      "command-palette:Abrir paleta de comandos": false
+    }
+  },
+  "active": "7d34d4a783ad5727",
+  "lastOpenFiles": [
+    "Programação Orientada a Objetos/Linguagens/Python.md",
+    "Programação Orientada a Objetos/Linguagens/Php.md",
+    "Programação Orientada a Objetos/Linguagens/Csharp.md",
+    "Programação Orientada a Objetos/Linguagens/Java.md",
+    "Programação Orientada a Objetos/Linguagens/Rust.md",
+    "Programação Orientada a Objetos/POO/POO.md",
+    "Programação Orientada a Objetos/POO/Encapsulamento.md",
+    "Programação Orientada a Objetos/POO/Abstração.md",
+    "Programação Orientada a Objetos/POO/Polimorfismo.md",
+    "Programação Orientada a Objetos/POO/Package.md",
+    "Programação Orientada a Objetos/POO/Objetos.md",
+    "Programação Orientada a Objetos/POO/Métodos.md",
+    "Programação Orientada a Objetos/POO/Interfaces.md",
+    "Programação Orientada a Objetos/POO/Herança.md",
+    "Programação Orientada a Objetos/POO/Classes.md",
+    "Programação Orientada a Objetos/POO/Atributos.md",
+    "Programação Orientada a Objetos/Diagramas UML/Diagramas_de_Classe.md",
+    "Programação Orientada a Objetos/Diagramas UML/Diagramas_UML.md",
+    "Diagramas.md",
+    "Programação Orientada a Objetos/Diagramas UML",
+    "C.md",
+    "Programação Orientada a Objetos/Linguagens",
+    "Programação Orientada a Objetos/Sem título.md",
+    "Programação Orientada a Objetos/POO",
+    "Sem título",
+    "Programação Orientada a Objetos"
+  ]
+}
