@@ -14,7 +14,7 @@ public class ExemploPublic {
 }
 ```
 ***
-- **Private**: Membros marcados como `private` são acessíveis apenas dentro da própria [classe](Classes) em que estão declarados. Isso é usado para ocultar os detalhes internos da implementação da [classe](Classes) e é uma prática comum para proteger o estado interno do objeto.
+- **Private**: Membros marcados como `private` são acessíveis apenas dentro da própria [classe](Classes) em que estão declarados. Isso é usado para ocultar os detalhes internos da implementação da [classe](Classes) e é uma prática comum para proteger o estado interno do [objeto](Objetos).
 ```java
 public class ExemploPrivate {
     private int numeroPrivado;
@@ -25,7 +25,7 @@ public class ExemploPrivate {
 }
 ```
 ***
-- **Protected**: Um membro declarado como `protected` pode ser acessado dentro de sua própria [classe](Classes), em [classes](Classes) localizadas no mesmo pacote, e também em subclasses. Isso é útil quando você quer permitir que uma [classe](Classes) herdada acesse o membro, mas protegê-lo de um acesso mais amplo.
+- **Protected**: Um membro declarado como `protected` pode ser acessado dentro de sua própria [classe](Classes), em [classes](Classes) localizadas no mesmo [pacote](Package), e também em [subclasses](Classes#Subclasses). Isso é útil quando você quer permitir que uma [classe](Classes) herdada acesse o membro, mas protegê-lo de um acesso mais amplo.
 ```java
 public class ExemploProtected {
     protected int numeroProtegido;
@@ -36,7 +36,7 @@ public class ExemploProtected {
 }
 ```
 ***
-- **Default (Package-Private)**: Quando nenhum modificador de acesso é especificado, o membro tem visibilidade de pacote (`default`). Isso significa que ele só pode ser acessado dentro de outras [classes](Classes) no mesmo pacote. Esse nível de visibilidade é menos comum, mas pode ser útil em certas situações para agrupar [classes](Classes) relacionadas dentro do mesmo pacote.
+- **Default (Package-Private)**: Quando nenhum modificador de acesso é especificado, o membro tem visibilidade de [pacote](Package) (`default`). Isso significa que ele só pode ser acessado dentro de outras [classes](Classes) no mesmo [pacote](Package). Esse nível de visibilidade é menos comum, mas pode ser útil em certas situações para agrupar [classes](Classes) relacionadas dentro do mesmo [pacote](Package).
 ```java
 class ExemploDefault {
     int numeroDefault;

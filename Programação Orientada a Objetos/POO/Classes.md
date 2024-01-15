@@ -1,10 +1,18 @@
 ***
 As classes são um conceito central na [programação orientada a objetos](POO). Elas funcionam como um "molde" ou "blueprint" para criar [objetos](Objetos). Uma classe define as propriedades ([atributos](Atributos)) e os comportamentos ([métodos](Métodos)) que os [objetos](Objetos) criados a partir dela terão.
 ***
+## Superclasses
+***
+é uma classe geral ou abstrata da qual outras classes, chamadas subclasses ou classes filhas, são derivadas. A superclasse define características e comportamentos comuns que são compartilhados por suas subclasses.
+***
+## Subclasses
+***
+É uma classe que herda características de outra classe, conhecida como superclasse ou classe pai. A subclasse inclui todas as propriedades e [métodos](Métodos) da superclasse e também pode adicionar seus próprios [métodos](Métodos) e propriedades específicos ou modificar os existentes.
+***
 ## Exemplo em [[Java]]
 ***
 Nesse exemplo iremos usar a Classe ``Carro`` para demonstrar os [atributos](Atributos) e os [métodos](Métodos)
-
+***
 ```java
 public class Carro {
 

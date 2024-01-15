@@ -6,6 +6,7 @@ Em programação orientada a objetos ([[POO]]), os métodos são como funções 
 - **Construtor**: inicializa o [objeto](Objetos) com valores específicos para os [atributos](Atributos).
 - **Getters**: permitem acessar os valores dos [atributos](Atributos) [privados](Encapsulamento.md) da classe.
 - **Setter**: são métodos que permitem modificar os valores dos [atributos](Atributos) [privados](Encapsulamento.md).
+- **Métodos abstratos**: métodos abstratos em [[POO]] são métodos declarados em uma [classe abstrata](Abstração) que não têm implementação própria na [classe](Classes) onde são declarados. Em vez disso, eles devem ser obrigatoriamente implementados pelas [subclasses](Classes#Subclasses) que herdam a [classe abstrata](Abstração). Isso significa que um método abstrato é como um "contrato" que obriga todas as [subclasses](Classes#Subclasses) a fornecerem uma implementação específica para esse [método](Métodos).
 ***
 ## Exemplo em [[Java]]
 ***

@@ -4,7 +4,7 @@ Em programação orientada a objetos ([[POO]]), os atributos de uma [classe](Cla
 ## Exemplo em [[Java]]
 ***
 Nesse exemplo iremos usar a [Classe](Classes) ``Carro`` para demonstrar os atributos e os [métodos](Métodos).
-
+***
 ```java
 public class Carro {
 
