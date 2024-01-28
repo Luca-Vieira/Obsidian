@@ -13,5 +13,15 @@ public class Carro {
     String modelo;
     String cor;
     int ano;
+    static int numModelos = 10;
+    final int 
 ```
+***
+### Static
+***
+É um modificador que indica que um membro (seja método, variável ou bloco de código) pertence à classe em vez de a uma instância específica da classe.
+***
+### Final
+***
+É um modificador que, quando aplicado a uma variável, impede que seu valor seja alterado após a inicialização; quando aplicado a uma classe, impede que a classe seja herdada; e quando aplicado a um método, impede que o método seja sobrescrito por subclasses.
 ***
